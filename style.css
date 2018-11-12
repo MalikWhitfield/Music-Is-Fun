@@ -1,0 +1,23 @@
+.bg-img {
+  background-image: url("/assets/headphones.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh
+
+}
+
+.bg-scroll{
+  overflow-y: auto
+}
+
+.cardStyle{
+  background-color: rgba(128, 128, 128, 0.233);
+  border-radius: 10px;
+  color: black;
+}
+
+.card-image-top{
+  height: 300px;
+  width: auto;
+}
+
